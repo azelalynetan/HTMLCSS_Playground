@@ -83,7 +83,7 @@ nav.dark-div ul li a {
   font-size: 16px;
 }
 
-.image-div {
+.Image-div {
   background: url(images/IMG_1648.jpg);
   background-position: -20px;
   height: 500px;
@@ -96,17 +96,17 @@ main {
   padding: 20px;
 }
 
-.footer {
+.FOOTER {
   background-color: #4F4F4F;
   height: 120px;
   padding: 15px;
 }
 
-.footer h3 {
+.FOOTER h3 {
   color: #ffffff;
 }
 
-.footer ul {
+.FOOTER ul {
   list-style: none;
   padding-left: 0;
   margin-top: 0;
@@ -123,7 +123,7 @@ li img {
   width: 50px;
 }
 
-.footer li:hover img {
+.FOOTER li:hover img {
   transform: rotate(20deg);
   transition: transform 250ms ease-in-out;
 }
